@@ -218,4 +218,9 @@ h3 { font-size: 1.35rem; }
   display:block;
   object-fit:contain;
 }
+.site-logo{
+  height:100px !important;
+  width:auto !important;
+  display:block;
+  object-fit:contain;
 }
