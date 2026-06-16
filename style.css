@@ -225,8 +225,10 @@ h3 { font-size: 1.35rem; }
   object-fit:contain;
 }
 .slogan{
-  font-size:1.4rem;
-  font-weight:700;
-  color:#d4a017;
+  display:inline-block;
+  background:#ffd500;
+  padding:.4rem .8rem;
+  font-weight:800;
+  text-transform:uppercase;
   margin:1rem 0 1.5rem 0;
 }
