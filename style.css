@@ -43,7 +43,7 @@ a { color: inherit; }
   place-items: center;
   width: 48px;
   height: 48px;
-  background: var(--yellow);
+  background:none;
   border: 3px solid var(--black);
   box-shadow: 4px 4px 0 var(--black);
 }
