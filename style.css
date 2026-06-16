@@ -57,6 +57,10 @@ a { color: inherit; }
   font-size: .92rem;
   font-weight: 700;
 }
+.brand{
+  display:flex;
+  align-items:center;
+}
 .site-nav a {
   text-decoration: none;
   padding: .35rem .45rem;
