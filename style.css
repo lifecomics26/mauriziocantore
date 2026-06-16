@@ -208,9 +208,10 @@ h3 { font-size: 1.35rem; }
   .comic-panel { min-height: 320px; transform: none; }
   .site-footer { flex-direction: column; }
 }
-.site-logo{
-  height:64px;
+..site-logo{
+  height:100px;
   width:auto;
   display:block;
   object-fit:contain;
+}
 }
