@@ -372,14 +372,3 @@ h3 { font-size: 1.35rem; }
     grid-template-columns:1fr;
   }
 }
-.project-open{
-  max-width:1000px;
-  margin:3rem auto;
-  text-align:center;
-  font-weight:700;
-  line-height:1.8;
-  background:var(--yellow-soft);
-  border:3px solid var(--black);
-  padding:1rem 1.5rem;
-  box-shadow:6px 6px 0 var(--black);
-}
