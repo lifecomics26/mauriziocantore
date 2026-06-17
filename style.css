@@ -260,3 +260,6 @@ h3 { font-size: 1.35rem; }
   line-height: 1.6;
   font-style: italic;
 }
+.btn + .btn {
+  margin-left: 15px;
+}
